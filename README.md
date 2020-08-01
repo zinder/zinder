@@ -26,6 +26,15 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 [2]: https://github.com/zinder
 [3]: https://www.linkedin.com/in/mouaadelfinti/
 
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
 <!--
 **zinder/zinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
